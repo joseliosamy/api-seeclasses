@@ -12,150 +12,165 @@ app.use((req,res,next)=>{
 
 // FÍSICA -----------------------------------------
 
-app.get('/fisica', (req, res)=>{
+app.get('/', (req, res)=>{
     res.json([
+        //FISICA ------------------------------------------------------------------------------------------
         {
-            cardHeader:{
-                title: "Leis de Newton - Aula 1"
-            },
-            cardBody:{
-                cardImage: "https://github.com/joseliosamy/seeclasses/blob/master/public/images/thumbl/f%C3%ADsica/aula1.jpg?raw=true",
-                imageAlt: "Física",
-                date: "22/03/21",
-                href: "https://youtu.be/42Li6ZkcYMY"
+            fisica: {
+                card:{
+                    cardHeader:{
+                        title: "Leis de Newton - Aula 1"
+                    },
+                    cardBody:{
+                        cardImage: "https://github.com/joseliosamy/seeclasses/blob/master/public/images/thumbl/f%C3%ADsica/aula1.jpg?raw=true",
+                        imageAlt: "Física",
+                        date: "22/03/21",
+                        href: "https://youtu.be/42Li6ZkcYMY"
+                    }
+                },
+                card:{
+                    cardHeader:{
+                        title: "Forças de atrito - Aula 2"
+                    },
+                    cardBody:{
+                        cardImage: "https://github.com/joseliosamy/seeclasses/blob/master/public/images/thumbl/f%C3%ADsica/aula2.jpg?raw=true",
+                        imageAlt: "Física",
+                        date: "24/03/21",
+                        href: "https://youtu.be/yqEH1Np6gBQ"
+                    }
+                }
             }
+            // END FÍSICA ----------------------------------------------------------------------------------------------
         },
+        //CALCULO -----------------------------------------------------------------------------------------------------------
         {
-            cardHeader:{
-                title: "Forças de atrito - Aula 2"
-            },
-            cardBody:{
-                cardImage: "https://github.com/joseliosamy/seeclasses/blob/master/public/images/thumbl/f%C3%ADsica/aula2.jpg?raw=true",
-                imageAlt: "Física",
-                date: "24/03/21",
-                href: "https://youtu.be/yqEH1Np6gBQ"
+            calculo:{
+                card:{
+                    cardHeader:{
+                        title: ""
+                    },
+                    cardBody:{
+                        cardImage: "https://github.com/joseliosamy/seeclasses/blob/master/public/images/thumbl/c%C3%A1lculo/aula1.jpg?raw=true",
+                        imageAlt: "Cálculo",
+                        date: "22/03/21",
+                        href: ""
+                    }
+                },
+                card:{
+                    cardHeader:{
+                        title: ""
+                    },
+                    cardBody:{
+                        cardImage: "https://github.com/joseliosamy/seeclasses/blob/master/public/images/thumbl/c%C3%A1lculo/aula2.jpg?raw=true",
+                        imageAlt: "Cálculo",
+                        date: "22/03/21",
+                        href: ""
+                    }
+                }           
             }
+            // END CÁLCULO ------------------------------------------------------------------------------------------------
+        },
+        // CÁLCULO VETORIAL -------------------------------------------------
+        {
+            vetorial: {
+                card:{
+                    cardHeader:{
+                        title: ""
+                    },
+                    cardBody:{
+                        cardImage: "c",
+                        imageAlt: "Cálculo Vetorial",
+                        date: "22/03/21",
+                        href: ""
+                    }
+                },
+                card:{
+                    cardHeader:{
+                        title: ""
+                    },
+                    cardBody:{
+                        cardImage: "c",
+                        imageAlt: "Cálculo Vetorial",
+                        date: "24/03/21",
+                        href: ""
+                    }
+                }   
+            }
+            // END CÁLCULO VETORIAL ---------------------------------------------------------------------------------------------
+
+        },
+        // INTRO COMPUTADOR ---------------------------------------------------------------------------------------------------
+        {
+            introComp:{
+                card:{
+                    cardHeader:{
+                        title: ""
+                    },
+                    cardBody:{
+                        cardImage: "c",
+                        imageAlt: "Introdução ao computador",
+                        date: "22/03/21",
+                        href: ""
+                    }
+                },
+                card:{
+                    cardHeader:{
+                        title: ""
+                    },
+                    cardBody:{
+                        cardImage: "c",
+                        imageAlt: "Introdução ao computador",
+                        date: "24/03/21",
+                        href: ""
+                    }
+                },
+                card:{
+                    cardHeader:{
+                        title: ""
+                    },
+                    cardBody:{
+                        cardImage: "c",
+                        imageAlt: "Introdução ao computador",
+                        date: "24/03/21",
+                        href: ""
+                    }
+                }
+            }
+        // END INTRO COMPUTADOR ------------------------------------------------
+        },
+        // INTRO PROGRAMAÇÃO -------------------------------------------------
+        {
+            introProg:{
+                card:{
+                    cardHeader:{
+                        title: ""
+                    },
+                    cardBody:{
+                        cardImage: "c",
+                        imageAlt: "Introdução ao programação",
+                        date: "22/03/21",
+                        href: ""
+                    }
+                },
+                card:{
+                    cardHeader:{
+                        title: ""
+                    },
+                    cardBody:{
+                        cardImage: "c",
+                        imageAlt: "Introdução ao programação",
+                        date: "24/03/21",
+                        href: ""
+                    }
+                }
+            }
+            // END INTRO PROGRAMAÇÃO ------------------------------------------------
         }
     ])
 })
 
-// END FÍSICA -----------------------------------------------------
 
-// CÁLCULO -------------------------------------------------
-app.get('/calculo', (req, res)=>{
-    res.json([
-        {
-            cardHeader:{
-                title: ""
-            },
-            cardBody:{
-                cardImage: "https://github.com/joseliosamy/seeclasses/blob/master/public/images/thumbl/c%C3%A1lculo/aula1.jpg?raw=true",
-                imageAlt: "Cálculo",
-                date: "22/03/21",
-                href: ""
-            }
-        },
-        {
-            cardHeader:{
-                title: ""
-            },
-            cardBody:{
-                cardImage: "https://github.com/joseliosamy/seeclasses/blob/master/public/images/thumbl/c%C3%A1lculo/aula2.jpg?raw=true",
-                imageAlt: "Cálculo",
-                date: "24/03/21",
-                href: ""
-            }
-        }
-    ])
-})
-// END CÁLCULO ------------------------------------------------
 
-// CÁLCULO VETORIAL -------------------------------------------------
-app.get('/calculo-vetorial', (req, res)=>{
-    res.json([
-        {
-            cardHeader:{
-                title: ""
-            },
-            cardBody:{
-                cardImage: "c",
-                imageAlt: "Cálculo Vetorial",
-                date: "22/03/21",
-                href: ""
-            }
-        },
-        {
-            cardHeader:{
-                title: ""
-            },
-            cardBody:{
-                cardImage: "c",
-                imageAlt: "Cálculo Vetorial",
-                date: "24/03/21",
-                href: ""
-            }
-        }
-    ])
-})
-// END CÁLCULO VETORIAL ------------------------------------------------
-
-// INTRO COMPUTADOR -------------------------------------------------
-app.get('/intro-computador', (req, res)=>{
-    res.json([
-        {
-            cardHeader:{
-                title: ""
-            },
-            cardBody:{
-                cardImage: "c",
-                imageAlt: "Introdução ao computador",
-                date: "22/03/21",
-                href: ""
-            }
-        },
-        {
-            cardHeader:{
-                title: ""
-            },
-            cardBody:{
-                cardImage: "c",
-                imageAlt: "Introdução ao computador",
-                date: "24/03/21",
-                href: ""
-            }
-        }
-    ])
-})
-// END INTRO COMPUTADOR ------------------------------------------------
-
-// INTRO PROGRAMAÇÃO -------------------------------------------------
-app.get('/intro-programacao', (req, res)=>{
-    res.json([
-        {
-            cardHeader:{
-                title: ""
-            },
-            cardBody:{
-                cardImage: "c",
-                imageAlt: "Introdução ao programação",
-                date: "22/03/21",
-                href: ""
-            }
-        },
-        {
-            cardHeader:{
-                title: ""
-            },
-            cardBody:{
-                cardImage: "c",
-                imageAlt: "Introdução ao programação",
-                date: "24/03/21",
-                href: ""
-            }
-        }
-    ])
-})
-// END INTRO PROGRAMAÇÃO ------------------------------------------------
 
 
 
