@@ -49,7 +49,7 @@ app.get('/calculo', (req, res)=>{
                 title: ""
             },
             cardBody:{
-                cardImage: "c",
+                cardImage: "https://github.com/joseliosamy/seeclasses/blob/master/public/images/thumbl/c%C3%A1lculo/aula1.jpg?raw=true",
                 imageAlt: "Cálculo",
                 date: "22/03/21",
                 href: ""
@@ -60,7 +60,7 @@ app.get('/calculo', (req, res)=>{
                 title: ""
             },
             cardBody:{
-                cardImage: "c",
+                cardImage: "https://github.com/joseliosamy/seeclasses/blob/master/public/images/thumbl/c%C3%A1lculo/aula2.jpg?raw=true",
                 imageAlt: "Cálculo",
                 date: "24/03/21",
                 href: ""
