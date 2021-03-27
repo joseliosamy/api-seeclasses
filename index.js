@@ -13,32 +13,162 @@ app.use((req,res,next)=>{
 app.get('/', (req, res)=>{
     res.json([
         {
-            calculo:{
-                calculo:{
-                    cardHeader:{
-                        title:"ola"
+            calculo:[
+                {
+                    card:{
+                        cardHeader:{
+                            title: "Olá"
+                        },
+                        cardBody: {
+                            imgSrc: "link",
+                            imgAlt: "name",
+                            date: "00/00/00",
+                            aHref: "link"
+                        }
+                    }
+                },
+                //------------------------------------------------
+                {
+                    card:{
+                        cardHeader:{
+                            title: "Olá2"
+                        },
+                        cardBody: {
+                            imgSrc: "link",
+                            imgAlt: "name",
+                            date: "00/00/00",
+                            aHref: "link"
+                        }
                     }
                 }
-            }     
+            ]
         },
         {
             fisica:[
                 {
-                    card:"12"
+                    card:{
+                        cardHeader:{
+                            title: "Leis de Newton - Aula 1"
+                        },
+                        cardBody: {
+                            imgSrc: "/public/images/thumbl/fisica/aula1.jpg",
+                            imgAlt: "Física",
+                            date: "22/03/21",
+                            aHref: "https://youtu.be/42Li6ZkcYMY"
+                        }
+                    }
                 },
+                //-----------------------------------------------------
                 {
-                    card:"23"
-                },
-                {
-                    card:"24"
+                    card:{
+                        cardHeader:{
+                            title: "Forças de atrito - Aula 2"
+                        },
+                        cardBody: {
+                            imgSrc: "/public/images/thumbl/fisica/aula2.jpg",
+                            imgAlt: "Física",
+                            date: "24/03/21",
+                            aHref: "https://youtu.be/yqEH1Np6gBQ"
+                        }
+                    }
                 }
-                ,
+                //-----------------------------------------------------
+            ]
+        },
+        {
+            vetorial:[
                 {
-                    card:"35"
+                    card:{
+                        cardHeader:{
+                            title: "Olá"
+                        },
+                        cardBody: {
+                            imgSrc: "link",
+                            imgAlt: "name",
+                            date: "00/00/00",
+                            aHref: "link"
+                        }
+                    }
                 },
+                //------------------------------------------------
                 {
-                    card:"9994"
+                    card:{
+                        cardHeader:{
+                            title: "Olá2"
+                        },
+                        cardBody: {
+                            imgSrc: "link",
+                            imgAlt: "name",
+                            date: "00/00/00",
+                            aHref: "link"
+                        }
+                    }
                 }
+                //-----------------------------------------------------
+            ]
+        },
+        {
+            introProg:[
+                {
+                    card:{
+                        cardHeader:{
+                            title: "Olá"
+                        },
+                        cardBody: {
+                            imgSrc: "link",
+                            imgAlt: "name",
+                            date: "00/00/00",
+                            aHref: "link"
+                        }
+                    }
+                },
+                //------------------------------------------------
+                {
+                    card:{
+                        cardHeader:{
+                            title: "Olá2"
+                        },
+                        cardBody: {
+                            imgSrc: "link",
+                            imgAlt: "name",
+                            date: "00/00/00",
+                            aHref: "link"
+                        }
+                    }
+                }
+                //-----------------------------------------------------
+            ]
+        },
+        {
+            introComp:[
+                {
+                    card:{
+                        cardHeader:{
+                            title: "Olá"
+                        },
+                        cardBody: {
+                            imgSrc: "link",
+                            imgAlt: "name",
+                            date: "00/00/00",
+                            aHref: "link"
+                        }
+                    }
+                },
+                //------------------------------------------------
+                {
+                    card:{
+                        cardHeader:{
+                            title: "Olá2"
+                        },
+                        cardBody: {
+                            imgSrc: "link",
+                            imgAlt: "name",
+                            date: "00/00/00",
+                            aHref: "link"
+                        }
+                    }
+                }
+                //-----------------------------------------------------
             ]
         }
     ])
