@@ -238,13 +238,13 @@ app.get('/', (req, res)=>{
                 {
                     card:{
                         cardHeader:{
-                            title: "Olá"
+                            title: "O Computador - Aula 1"
                         },
                         cardBody: {
-                            imgSrc: "/public/images/thumbl/not-thumbl.png",
-                            imgAlt: "name",
-                            date: "00/00/00",
-                            aHref: "link"
+                            imgSrc: "/public/images/thumbl/introProg/aula1.jpg",
+                            imgAlt: "Introdução a Programação",
+                            date: "11/03/21",
+                            aHref: "https://youtu.be/LFu_zqqtvbE"
                         }
                     }
                 },
@@ -252,17 +252,44 @@ app.get('/', (req, res)=>{
                 {
                     card:{
                         cardHeader:{
-                            title: "Olá2"
+                            title: "Algoritmos - Aula 2"
                         },
                         cardBody: {
-                            imgSrc: "/public/images/thumbl/not-thumbl.png",
-                            imgAlt: "name",
-                            date: "00/00/00",
-                            aHref: "link"
+                            imgSrc: "/public/images/thumbl/introProg/aula2.jpg",
+                            imgAlt: "Introdução a Programação",
+                            date: "16/03/21",
+                            aHref: "https://youtu.be/4wI_sOpKauk"
+                        }
+                    }
+                },
+                //------------------------------------------------
+                {
+                    card:{
+                        cardHeader:{
+                            title: "Começando a programar: usando a memória e E/S - Aula 3"
+                        },
+                        cardBody: {
+                            imgSrc: "/public/images/thumbl/introProg/aula3.jpg",
+                            imgAlt: "Introdução a Programação",
+                            date: "23/03/21",
+                            aHref: "https://youtu.be/LambNMJJck4"
+                        }
+                    }
+                },
+                //------------------------------------------------
+                {
+                    card:{
+                        cardHeader:{
+                            title: "Estruturas de controle: desvio condicional - Aula 4"
+                        },
+                        cardBody: {
+                            imgSrc: "/public/images/thumbl/introProg/aula4.jpg",
+                            imgAlt: "Introdução a Programação",
+                            date: "25/03/21",
+                            aHref: "https://youtu.be/DcWGyOFANyM"
                         }
                     }
                 }
-                //-----------------------------------------------------
             ]
         },
         {
@@ -270,13 +297,13 @@ app.get('/', (req, res)=>{
                 {
                     card:{
                         cardHeader:{
-                            title: "Olá"
+                            title: "Arquitetura Básica de um Computador (Parte 1) - Aula 1"
                         },
                         cardBody: {
-                            imgSrc: "/public/images/thumbl/not-thumbl.png",
-                            imgAlt: "name",
-                            date: "00/00/00",
-                            aHref: "link"
+                            imgSrc: "/public/images/thumbl/introComp/aula1.jpg",
+                            imgAlt: "Introdução ao Computador",
+                            date: "11/03/21",
+                            aHref: "https://youtu.be/HEkGTFp8_G8"
                         }
                     }
                 },
@@ -284,17 +311,30 @@ app.get('/', (req, res)=>{
                 {
                     card:{
                         cardHeader:{
-                            title: "Olá2"
+                            title: "Arquitetura Básica de um Computador (Parte 2) - Aula 2"
                         },
                         cardBody: {
-                            imgSrc: "/public/images/thumbl/not-thumbl.png",
-                            imgAlt: "name",
-                            date: "00/00/00",
-                            aHref: "link"
+                            imgSrc: "/public/images/thumbl/introComp/aula2.jpg",
+                            imgAlt: "Introdução ao Computador",
+                            date: "16/03/21",
+                            aHref: "https://youtu.be/wee2mCtT45g"
+                        }
+                    }
+                },
+                //------------------------------------------------
+                {
+                    card:{
+                        cardHeader:{
+                            title: "Arquitetura Básica de um Computador (Parte 3) - Aula 3"
+                        },
+                        cardBody: {
+                            imgSrc: "/public/images/thumbl/introComp/aula3.jpg",
+                            imgAlt: "Introdução ao Computador",
+                            date: "23/03/21",
+                            aHref: "https://youtu.be/lZJ1X_1QWzI"
                         }
                     }
                 }
-                //-----------------------------------------------------
             ]
         }
     ])
