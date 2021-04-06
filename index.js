@@ -136,6 +136,23 @@ app.get('/', (req, res) => {
                             "iframe": "yqEH1Np6gBQ"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 3,
+                        "cardHeader": {
+                            "title": "Resolvendo exercícios - Aula 3"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula3.jpg",
+                            "imgAlt": "Física",
+                            "date": "05/04/21",
+                            "aHref": "https://youtu.be/tMA9oppbMsQ"
+                        },
+                        "theaterMode": {
+                            "iframe": "tMA9oppbMsQ"
+                        }
+                    }
                 }
             ]
         },
@@ -383,8 +400,7 @@ app.get('/', (req, res) => {
                             "aHref": "https://youtu.be/IhZA6woCZ1M"
                         },
                         "theaterMode": {
-                            "iframe": "IhZA6woCZ1M",
-                            "d": 1
+                            "iframe": "IhZA6woCZ1M"
                         }
                     }
                 }
