@@ -150,7 +150,7 @@ app.get('/', (req, res) => {
                             "aHref": "https://youtu.be/tMA9oppbMsQ"
                         },
                         "theaterMode": {
-                            "iframe": "tMA9oppbMsQ" 
+                            "iframe": "tMA9oppbMsQ"
                         }
                     }
                 }
