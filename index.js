@@ -357,7 +357,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 2,
                         "cardHeader": {
-                            "title": "Arquitetura Básica de um Computador (Parte 2) - Aula 2"
+                            "title": "Arquitetura Básica de um Computador | Processador - Aula 2"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/introComp/aula2.jpg",
@@ -374,7 +374,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 3,
                         "cardHeader": {
-                            "title": "Arquitetura Básica de um Computador (Parte 3) - Aula 3"
+                            "title": "Arquitetura Básica de um Computador - Aula 3"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/introComp/aula3.jpg",
@@ -391,7 +391,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 4,
                         "cardHeader": {
-                            "title": "Arquitetura Básica de um Computador (Parte 4) - Aula 4"
+                            "title": "Arquitetura Básica de um Computador - Aula 4"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/introComp/aula4.jpg",
@@ -401,6 +401,24 @@ app.get('/', (req, res) => {
                         },
                         "theaterMode": {
                             "iframe": "IhZA6woCZ1M"
+                        }
+                    }
+                }
+                ,
+                {
+                    "card": {
+                        "id": 5,
+                        "cardHeader": {
+                            "title": "Arquitetura Básica de um Computador | Memórias - Aula 5"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introComp/aula4.jpg",
+                            "imgAlt": "Introdução ao Computador",
+                            "date": "06/04/21",
+                            "aHref": "https://youtu.be/LALCQWHNpHA"
+                        },
+                        "theaterMode": {
+                            "iframe": "LALCQWHNpHA"
                         }
                     }
                 }
