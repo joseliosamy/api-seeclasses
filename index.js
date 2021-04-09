@@ -348,6 +348,23 @@ app.get('/', (req, res) => {
                             "iframe": "AuUzEIIX8zs"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 6,
+                        "cardHeader": {
+                            "title": "Arrays - Aula 6"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula6.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "08/04/21",
+                            "aHref": "https://youtu.be/-HPEgmwRZZY"
+                        },
+                        "theaterMode": {
+                            "iframe": "-HPEgmwRZZY"
+                        }
+                    }
                 }
             ]
         },
