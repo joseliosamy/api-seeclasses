@@ -331,6 +331,23 @@ app.get('/', (req, res) => {
                             "iframe": "DcWGyOFANyM"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 5,
+                        "cardHeader": {
+                            "title": "Estruturas de controle: repetições - Aula 5"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula5.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "06/04/21",
+                            "aHref": "https://youtu.be/AuUzEIIX8zs"
+                        },
+                        "theaterMode": {
+                            "iframe": "AuUzEIIX8zs"
+                        }
+                    }
                 }
             ]
         },
@@ -403,8 +420,7 @@ app.get('/', (req, res) => {
                             "iframe": "IhZA6woCZ1M"
                         }
                     }
-                }
-                ,
+                },
                 {
                     "card": {
                         "id": 5,
