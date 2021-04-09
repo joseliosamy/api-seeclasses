@@ -412,7 +412,7 @@ app.get('/', (req, res) => {
                             "title": "Arquitetura Básica de um Computador | Memórias - Aula 5"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/introComp/aula4.jpg",
+                            "imgSrc": "/public/images/thumbl/introComp/aula5.jpg",
                             "imgAlt": "Introdução ao Computador",
                             "date": "06/04/21",
                             "aHref": "https://youtu.be/LALCQWHNpHA"
