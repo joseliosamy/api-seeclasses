@@ -259,6 +259,23 @@ app.get('/', (req, res) => {
                             "iframe": "M7APg1l986s"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 7,
+                        "cardHeader": {
+                            "title": "Resumão da monitoria #ficatranquilo"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/vetorial/resumo1.jpg",
+                            "imgAlt": "Vetorial",
+                            "date": "25/03/21",
+                            "aHref": "https://youtu.be/7HB-vQJ7oM4"
+                        },
+                        "theaterMode": {
+                            "iframe": "7HB-vQJ7oM4"
+                        }
+                    }
                 }
             ]
         },
