@@ -269,7 +269,7 @@ app.get('/', (req, res) => {
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/vetorial/resumo1.jpg",
                             "imgAlt": "Vetorial",
-                            "date": "25/03/21",
+                            "date": "09/04/21",
                             "aHref": "https://youtu.be/7HB-vQJ7oM4"
                         },
                         "theaterMode": {
