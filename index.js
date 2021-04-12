@@ -153,6 +153,23 @@ app.get('/', (req, res) => {
                             "iframe": "tMA9oppbMsQ"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 4,
+                        "cardHeader": {
+                            "title": "Energia cinética e trabalho - Aula 4"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula4.jpg",
+                            "imgAlt": "Física",
+                            "date": "12/04/21",
+                            "aHref": "https://youtu.be/o5fpRGZ9rAw"
+                        },
+                        "theaterMode": {
+                            "iframe": "o5fpRGZ9rAw"
+                        }
+                    }
                 }
             ]
         },
@@ -469,6 +486,23 @@ app.get('/', (req, res) => {
                         },
                         "theaterMode": {
                             "iframe": "LALCQWHNpHA"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 6,
+                        "cardHeader": {
+                            "title": "Primeiro exame e Arquitetura Básica de um Computador - Aula 6"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introComp/aula6.jpg",
+                            "imgAlt": "Introdução ao Computador",
+                            "date": "08/04/21",
+                            "aHref": "https://youtu.be/rlC9AQbdjSo"
+                        },
+                        "theaterMode": {
+                            "iframe": "rlC9AQbdjSo"
                         }
                     }
                 }
