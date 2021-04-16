@@ -98,6 +98,23 @@ app.get('/', (req, res) => {
                             "iframe": "pbwu_hqd-DI"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 6,
+                        "cardHeader": {
+                            "title": "Regras de derivação - Aula 6"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/calculo/aula6.jpg",
+                            "imgAlt": "Cálculo",
+                            "date": "14/04/21",
+                            "aHref": "https://youtu.be/LtlDStIGDAk"
+                        },
+                        "theaterMode": {
+                            "iframe": "LtlDStIGDAk"
+                        }
+                    }
                 }
             ]
         },
@@ -397,6 +414,23 @@ app.get('/', (req, res) => {
                         },
                         "theaterMode": {
                             "iframe": "-HPEgmwRZZY"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 7,
+                        "cardHeader": {
+                            "title": "Ponteiros em C - Aula 7"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula7.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "13/04/21",
+                            "aHref": "https://youtu.be/jfRsw7OAuM0"
+                        },
+                        "theaterMode": {
+                            "iframe": "jfRsw7OAuM0"
                         }
                     }
                 }
