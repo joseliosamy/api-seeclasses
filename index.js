@@ -120,7 +120,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 7,
                         "cardHeader": {
-                            "title": "Regras de cadeia - Aula 7"
+                            "title": "Regras da cadeia - Aula 7"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/calculo/aula7.jpg",
