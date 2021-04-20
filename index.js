@@ -115,6 +115,23 @@ app.get('/', (req, res) => {
                             "iframe": "LtlDStIGDAk"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 7,
+                        "cardHeader": {
+                            "title": "Regras de cadeia - Aula 7"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/calculo/aula7.jpg",
+                            "imgAlt": "Cálculo",
+                            "date": "14/04/21",
+                            "aHref": "https://youtu.be/ftKUAgu01Bk"
+                        },
+                        "theaterMode": {
+                            "iframe": "ftKUAgu01Bk"
+                        }
+                    }
                 }
             ]
         },
