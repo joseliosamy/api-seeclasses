@@ -125,7 +125,7 @@ app.get('/', (req, res) => {
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/calculo/aula7.jpg",
                             "imgAlt": "Cálculo",
-                            "date": "14/04/21",
+                            "date": "19/04/21",
                             "aHref": "https://youtu.be/ftKUAgu01Bk"
                         },
                         "theaterMode": {
