@@ -230,7 +230,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 1,
                         "cardHeader": {
-                            "title": "Vetores - <br> Aula 1"
+                            "title": "Vetores - Aula 1"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/vetorial/aula1.jpg",
@@ -247,7 +247,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 2,
                         "cardHeader": {
-                            "title": "Dependência linear de vetores - <br> Aula 2"
+                            "title": "Dependência linear de vetores - Aula 2"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/vetorial/aula2.jpg",
