@@ -467,6 +467,23 @@ app.get('/', (req, res) => {
                             "iframe": "jfRsw7OAuM0"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 8,
+                        "cardHeader": {
+                            "title": "Ponteiros em C (parte 2) - Aula 8"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula8.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "15/04/21",
+                            "aHref": "https://youtu.be/qVdArjt6_lc"
+                        },
+                        "theaterMode": {
+                            "iframe": "qVdArjt6_lc"
+                        }
+                    }
                 }
             ]
         },
