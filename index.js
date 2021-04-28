@@ -349,6 +349,74 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 7,
                         "cardHeader": {
+                            "title": "Produto vetorial e produto misto - Aula 7"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/vetorial/aula7.jpg",
+                            "imgAlt": "Vetorial",
+                            "date": "06/04/21",
+                            "aHref": "https://youtu.be/NnWCPfCUVtI"
+                        },
+                        "theaterMode": {
+                            "iframe": "NnWCPfCUVtI"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 8,
+                        "cardHeader": {
+                            "title": "Aula de exercícios - Aula 8"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/vetorial/aula8.jpg",
+                            "imgAlt": "Vetorial",
+                            "date": "08/04/21",
+                            "aHref": "https://youtu.be/0E0J05H_lKk"
+                        },
+                        "theaterMode": {
+                            "iframe": "0E0J05H_lKk"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 9,
+                        "cardHeader": {
+                            "title": "Gabarito e comentários sobre a primeira avaliação - Aula 9"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/vetorial/aula9.jpg",
+                            "imgAlt": "Vetorial",
+                            "date": "20/04/21",
+                            "aHref": "https://youtu.be/jIjivwz8Kdw"
+                        },
+                        "theaterMode": {
+                            "iframe": "jIjivwz8Kdw"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 10,
+                        "cardHeader": {
+                            "title": "Equação de plano - Aula 10"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/vetorial/aula10.jpg",
+                            "imgAlt": "Vetorial",
+                            "date": "22/04/21",
+                            "aHref": "https://youtu.be/mbjOZPFokg4"
+                        },
+                        "theaterMode": {
+                            "iframe": "mbjOZPFokg4"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 99,
+                        "cardHeader": {
                             "title": "Resumão da monitoria #ficatranquilo"
                         },
                         "cardBody": {
