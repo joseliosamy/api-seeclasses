@@ -118,18 +118,18 @@ app.get('/', (req, res) => {
                 },
                 {
                     "card": {
-                        "id": 7,
+                        "id": 8,
                         "cardHeader": {
-                            "title": "Regras da cadeia - Aula 7"
+                            "title": "Regras de L'Hôpital - Aula 8"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/calculo/aula7.jpg",
+                            "imgSrc": "/public/images/thumbl/calculo/aula8.jpg",
                             "imgAlt": "Cálculo",
-                            "date": "19/04/21",
-                            "aHref": "https://youtu.be/ftKUAgu01Bk"
+                            "date": "26/04/21",
+                            "aHref": "https://youtu.be/s9ooAsaCFws"
                         },
                         "theaterMode": {
-                            "iframe": "ftKUAgu01Bk"
+                            "iframe": "s9ooAsaCFws"
                         }
                     }
                 }
