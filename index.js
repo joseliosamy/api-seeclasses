@@ -607,6 +607,23 @@ app.get('/', (req, res) => {
                             "iframe": "rlC9AQbdjSo"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 7,
+                        "cardHeader": {
+                            "title": "Sistemas de numeração - Aula 7"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introComp/aula7.jpg",
+                            "imgAlt": "Introdução ao Computador",
+                            "date": "22/04/21",
+                            "aHref": "https://youtu.be/qzIuS6qygoE"
+                        },
+                        "theaterMode": {
+                            "iframe": "qzIuS6qygoE"
+                        }
+                    }
                 }
             ]
         }
