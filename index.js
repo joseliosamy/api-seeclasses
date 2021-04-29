@@ -149,6 +149,23 @@ app.get('/', (req, res) => {
                             "iframe": "s9ooAsaCFws"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 9,
+                        "cardHeader": {
+                            "title": "Regras de L'Hôpital (Continuação) - Aula 9"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/calculo/aula9.jpg",
+                            "imgAlt": "Cálculo",
+                            "date": "28/04/21",
+                            "aHref": "https://youtu.be/KyekevWrSN0"
+                        },
+                        "theaterMode": {
+                            "iframe": "KyekevWrSN0"
+                        }
+                    }
                 }
             ]
         },
