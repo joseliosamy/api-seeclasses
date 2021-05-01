@@ -586,6 +586,40 @@ app.get('/', (req, res) => {
                             "iframe": "qVdArjt6_lc"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 9,
+                        "cardHeader": {
+                            "title": "Funções - Aula 9"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula9.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "22/04/21",
+                            "aHref": "https://youtu.be/8R4R47tJ6KQ"
+                        },
+                        "theaterMode": {
+                            "iframe": "8R4R47tJ6KQ"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 10,
+                        "cardHeader": {
+                            "title": "Correção da primeira prova - Aula 10"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula10.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "29/04/21",
+                            "aHref": "https://youtu.be/S29qpTcdPSw"
+                        },
+                        "theaterMode": {
+                            "iframe": "S29qpTcdPSw"
+                        }
+                    }
                 }
             ]
         },
