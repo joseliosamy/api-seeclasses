@@ -166,6 +166,23 @@ app.get('/', (req, res) => {
                             "iframe": "KyekevWrSN0"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 10,
+                        "cardHeader": {
+                            "title": "Taxa de variação - Aula 10"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/calculo/aula10.jpg",
+                            "imgAlt": "Cálculo",
+                            "date": "03/05/21",
+                            "aHref": "https://youtu.be/sfrn899ROto"
+                        },
+                        "theaterMode": {
+                            "iframe": "sfrn899ROto"
+                        }
+                    }
                 }
             ]
         },
@@ -591,7 +608,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 9,
                         "cardHeader": {
-                            "title": "Funções - Aula 9"
+                            "title": "While - Aula 9"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/introProg/aula9.jpg",
@@ -618,6 +635,23 @@ app.get('/', (req, res) => {
                         },
                         "theaterMode": {
                             "iframe": "S29qpTcdPSw"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 11,
+                        "cardHeader": {
+                            "title": "Estruturas de repetição - Aula 11"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula11.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "04/05/21",
+                            "aHref": "https://youtu.be/u-m0-aEd-gw"
+                        },
+                        "theaterMode": {
+                            "iframe": "u-m0-aEd-gw"
                         }
                     }
                 }
