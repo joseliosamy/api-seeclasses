@@ -183,6 +183,23 @@ app.get('/', (req, res) => {
                             "iframe": "sfrn899ROto"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 11,
+                        "cardHeader": {
+                            "title": "Revisão para o 2° exame - Aula 11"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/calculo/aula11.jpg",
+                            "imgAlt": "Cálculo",
+                            "date": "05/05/21",
+                            "aHref": "https://youtu.be/gbEWQkrVB3Y"
+                        },
+                        "theaterMode": {
+                            "iframe": "gbEWQkrVB3Y"
+                        }
+                    }
                 }
             ]
         },
@@ -451,10 +468,44 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 11,
                         "cardHeader": {
-                            "title": "Resumão da monitoria #ficatranquilo"
+                            "title": "Posição relativa e inserções - Aula 11"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/vetorial/aula11.jpg",
+                            "imgAlt": "Vetorial",
+                            "date": "29/04/21",
+                            "aHref": "https://youtu.be/bHkNNdso-Ps"
+                        },
+                        "theaterMode": {
+                            "iframe": "bHkNNdso-Ps"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 12,
+                        "cardHeader": {
+                            "title": "Posição relativa e inserções (parte 2) - Aula 12"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/vetorial/aula12.jpg",
+                            "imgAlt": "Vetorial",
+                            "date": "04/05/21",
+                            "aHref": "https://youtu.be/QxzHIJHbRo0"
+                        },
+                        "theaterMode": {
+                            "iframe": "QxzHIJHbRo0"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 13,
+                        "cardHeader": {
+                            "title": "Resumão da monitoria #ficatranquilo"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/vetorial/aula13.jpg",
                             "imgAlt": "Vetorial",
                             "date": "09/04/21",
                             "aHref": "https://youtu.be/7HB-vQJ7oM4"
