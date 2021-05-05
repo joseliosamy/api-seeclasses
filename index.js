@@ -468,7 +468,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 11,
                         "cardHeader": {
-                            "title": "Posição relativa e inserções - Aula 11"
+                            "title": "Posição relativa e inserções (parte 1) - Aula 11"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/vetorial/aula11.jpg",
