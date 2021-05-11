@@ -200,6 +200,23 @@ app.get('/', (req, res) => {
                             "iframe": "gbEWQkrVB3Y"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 12,
+                        "cardHeader": {
+                            "title": "Plantão de Dúvidas -  Aula 12"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/calculo/aula12.jpg",
+                            "imgAlt": "Cálculo",
+                            "date": "10/05/21",
+                            "aHref": "https://youtu.be/A6AtUcrBPKI"
+                        },
+                        "theaterMode": {
+                            "iframe": "A6AtUcrBPKI"
+                        }
+                    }
                 }
             ]
         },
@@ -826,6 +843,23 @@ app.get('/', (req, res) => {
                         },
                         "theaterMode": {
                             "iframe": "qzIuS6qygoE"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 8,
+                        "cardHeader": {
+                            "title": "Introdução aos sistemas operacionais - Aula 8"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introComp/aula8.jpg",
+                            "imgAlt": "Introdução ao Computador",
+                            "date": "04/05/21",
+                            "aHref": "https://youtu.be/JWNvTGgA9O4"
+                        },
+                        "theaterMode": {
+                            "iframe": "JWNvTGgA9O4"
                         }
                     }
                 }
