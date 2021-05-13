@@ -519,10 +519,27 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 13,
                         "cardHeader": {
-                            "title": "Resumão da monitoria #ficatranquilo"
+                            "title": "Revisão para a segunda avaliação - Aula 13"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/vetorial/aula13.jpg",
+                            "imgAlt": "Vetorial",
+                            "date": "11/05/21",
+                            "aHref": "https://youtu.be/rSU2fxHMxSc"
+                        },
+                        "theaterMode": {
+                            "iframe": "rSU2fxHMxSc"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 14,
+                        "cardHeader": {
+                            "title": "Resumão da monitoria #ficatranquilo"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/vetorial/aula14.jpg",
                             "imgAlt": "Vetorial",
                             "date": "09/04/21",
                             "aHref": "https://youtu.be/7HB-vQJ7oM4"
@@ -720,6 +737,23 @@ app.get('/', (req, res) => {
                         },
                         "theaterMode": {
                             "iframe": "u-m0-aEd-gw"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 12,
+                        "cardHeader": {
+                            "title": "Correção dos exercícios - Aula 12"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula12.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "07/05/21",
+                            "aHref": "https://youtu.be/H7h4CWMD4rQ"
+                        },
+                        "theaterMode": {
+                            "iframe": "H7h4CWMD4rQ"
                         }
                     }
                 }
