@@ -901,7 +901,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 8,
                         "cardHeader": {
-                            "title": "Introdução aos sistemas operacionais - Aula 8"
+                            "title": "Introdução aos sistemas operacionais (parte 1) - Aula 8"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/introComp/aula8.jpg",
@@ -911,6 +911,23 @@ app.get('/', (req, res) => {
                         },
                         "theaterMode": {
                             "iframe": "JWNvTGgA9O4"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 9,
+                        "cardHeader": {
+                            "title": "Introdução aos sistemas operacionais (parte 2) - Aula 9"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introComp/aula9.jpg",
+                            "imgAlt": "Introdução ao Computador",
+                            "date": "11/05/21",
+                            "aHref": "https://youtu.be/Kulyg9f-LbM"
+                        },
+                        "theaterMode": {
+                            "iframe": "Kulyg9f-LbM"
                         }
                     }
                 }
