@@ -556,7 +556,7 @@ app.get('/', (req, res) => {
                             "title": "Resumão da monitoria #2"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/vetorial/aula14.jpg",
+                            "imgSrc": "/public/images/thumbl/vetorial/aula15.jpg",
                             "imgAlt": "Vetorial",
                             "date": "12/11/20",
                             "aHref": "https://youtu.be/x6N7hkesgfE"
