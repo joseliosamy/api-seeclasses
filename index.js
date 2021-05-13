@@ -536,7 +536,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 14,
                         "cardHeader": {
-                            "title": "Resumão da monitoria #ficatranquilo"
+                            "title": "Resumão da monitoria #1"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/vetorial/aula14.jpg",
@@ -546,6 +546,23 @@ app.get('/', (req, res) => {
                         },
                         "theaterMode": {
                             "iframe": "7HB-vQJ7oM4"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 15,
+                        "cardHeader": {
+                            "title": "Resumão da monitoria #2"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/vetorial/aula14.jpg",
+                            "imgAlt": "Vetorial",
+                            "date": "12/11/20",
+                            "aHref": "https://youtu.be/x6N7hkesgfE"
+                        },
+                        "theaterMode": {
+                            "iframe": "x6N7hkesgfE"
                         }
                     }
                 }
