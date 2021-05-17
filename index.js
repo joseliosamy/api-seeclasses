@@ -217,6 +217,23 @@ app.get('/', (req, res) => {
                             "iframe": "A6AtUcrBPKI"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 13,
+                        "cardHeader": {
+                            "title": "Máximos e mínimos - Aula 13"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/calculo/aula13.jpg",
+                            "imgAlt": "Cálculo",
+                            "date": "17/05/21",
+                            "aHref": "https://youtu.be/sIVtLtN1TuY"
+                        },
+                        "theaterMode": {
+                            "iframe": "sIVtLtN1TuY"
+                        }
+                    }
                 }
             ]
         },
