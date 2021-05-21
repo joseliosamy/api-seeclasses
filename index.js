@@ -676,7 +676,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 6,
                         "cardHeader": {
-                            "title": "Arrays - Aula 6"
+                            "title": "Exercícios - Aula 6"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/introProg/aula6.jpg",
@@ -788,6 +788,57 @@ app.get('/', (req, res) => {
                         },
                         "theaterMode": {
                             "iframe": "H7h4CWMD4rQ"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 13,
+                        "cardHeader": {
+                            "title": "Exercícios sobre arrays - Aula 13"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula13.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "13/05/21",
+                            "aHref": "https://youtu.be/9ZeDpCPYdNo"
+                        },
+                        "theaterMode": {
+                            "iframe": "9ZeDpCPYdNo"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 14,
+                        "cardHeader": {
+                            "title": "Exercícios sobre arrays e funções da lib string.h - Aula 14"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula14.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "18/05/21",
+                            "aHref": "https://youtu.be/UEYngIFbFwU"
+                        },
+                        "theaterMode": {
+                            "iframe": "UEYngIFbFwU"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 15,
+                        "cardHeader": {
+                            "title": "Array e structs - Aula 15"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula15.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "20/05/21",
+                            "aHref": "https://youtu.be/TPWhE-dMc98"
+                        },
+                        "theaterMode": {
+                            "iframe": "TPWhE-dMc98"
                         }
                     }
                 }
