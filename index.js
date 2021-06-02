@@ -222,7 +222,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 13,
                         "cardHeader": {
-                            "title": "Máximos e mínimos - Aula 13"
+                            "title": "Máximos e mínimos (parte 1) - Aula 13"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/calculo/aula13.jpg",
@@ -232,6 +232,74 @@ app.get('/', (req, res) => {
                         },
                         "theaterMode": {
                             "iframe": "sIVtLtN1TuY"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 14,
+                        "cardHeader": {
+                            "title": "Máximos e mínimos (parte 2) - Aula 14"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/calculo/aula14.jpg",
+                            "imgAlt": "Cálculo",
+                            "date": "19/05/21",
+                            "aHref": "https://youtu.be/D68d_StWlJw"
+                        },
+                        "theaterMode": {
+                            "iframe": "D68d_StWlJw"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 15,
+                        "cardHeader": {
+                            "title": "Esboço de gráficos (parte 1) - Aula 15"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/calculo/aula15.jpg",
+                            "imgAlt": "Cálculo",
+                            "date": "24/05/21",
+                            "aHref": "https://youtu.be/h2qQ6uKbJtc"
+                        },
+                        "theaterMode": {
+                            "iframe": "h2qQ6uKbJtc"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 16,
+                        "cardHeader": {
+                            "title": "Esboço de gráficos (parte 2) - Aula 16"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/calculo/aula16.jpg",
+                            "imgAlt": "Cálculo",
+                            "date": "26/05/21",
+                            "aHref": "https://youtu.be/Y4IgMK5-nRc"
+                        },
+                        "theaterMode": {
+                            "iframe": "Y4IgMK5-nRc"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 17,
+                        "cardHeader": {
+                            "title": "Problemas de otimização - Aula 17"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/calculo/aula17.jpg",
+                            "imgAlt": "Cálculo",
+                            "date": "31/05/21",
+                            "aHref": "https://youtu.be/bi5A5QAInks"
+                        },
+                        "theaterMode": {
+                            "iframe": "bi5A5QAInks"
                         }
                     }
                 }
@@ -839,6 +907,23 @@ app.get('/', (req, res) => {
                         },
                         "theaterMode": {
                             "iframe": "TPWhE-dMc98"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 16,
+                        "cardHeader": {
+                            "title": "Resolução de exercícios para a segunda prova - Aula 16"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula16.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "25/05/21",
+                            "aHref": "https://youtu.be/rJg0HbxYUVA"
+                        },
+                        "theaterMode": {
+                            "iframe": "rJg0HbxYUVA"
                         }
                     }
                 }
