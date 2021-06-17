@@ -926,6 +926,40 @@ app.get('/', (req, res) => {
                             "iframe": "rJg0HbxYUVA"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 17,
+                        "cardHeader": {
+                            "title": "Ponteiros - Aula 17"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula17.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "08/06/21",
+                            "aHref": "https://youtu.be/JO2X81lMxmI"
+                        },
+                        "theaterMode": {
+                            "iframe": "JO2X81lMxmI"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 18,
+                        "cardHeader": {
+                            "title": "Malloc - Aula 18"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula18.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "10/06/21",
+                            "aHref": "https://youtu.be/tfmlCYB5pQc"
+                        },
+                        "theaterMode": {
+                            "iframe": "tfmlCYB5pQc"
+                        }
+                    }
                 }
             ]
         },
