@@ -948,7 +948,7 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 18,
                         "cardHeader": {
-                            "title": "Malloc - Aula 18"
+                            "title": "Malloc e funções - Aula 18"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/introProg/aula18.jpg",
