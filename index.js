@@ -1016,12 +1016,12 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 22,
                         "cardHeader": {
-                            "title": "Resolvendo exercícios (parte 1) - Aula 22"
+                            "title": "Resolvendo exercícios (parte 2) - Aula 22"
                         },
                         "cardBody": {
                             "imgSrc": "/public/images/thumbl/introProg/aula22.jpg",
                             "imgAlt": "Introdução a Programação",
-                            "date": "22/06/21",
+                            "date": "24/06/21",
                             "aHref": "https://youtu.be/-T7Xsq8NpTo"
                         },
                         "theaterMode": {
