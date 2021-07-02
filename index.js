@@ -960,6 +960,74 @@ app.get('/', (req, res) => {
                             "iframe": "tfmlCYB5pQc"
                         }
                     }
+                },
+                {
+                    "card": {
+                        "id": 19,
+                        "cardHeader": {
+                            "title": "Resolvendo lista de exercícios - Aula 19"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula19.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "15/06/21",
+                            "aHref": "https://youtu.be/_90B6y--VbY"
+                        },
+                        "theaterMode": {
+                            "iframe": "_90B6y--VbY"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 20,
+                        "cardHeader": {
+                            "title": "Alocação dinâmica e argumentos - Aula 20"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula20.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "17/06/21",
+                            "aHref": "https://youtu.be/SRQrSSymzQw"
+                        },
+                        "theaterMode": {
+                            "iframe": "SRQrSSymzQw"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 21,
+                        "cardHeader": {
+                            "title": "Resolvendo exercícios (parte 1) - Aula 21"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula21.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "22/06/21",
+                            "aHref": "https://youtu.be/Uol3TmxRqLk"
+                        },
+                        "theaterMode": {
+                            "iframe": "Uol3TmxRqLk"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 22,
+                        "cardHeader": {
+                            "title": "Resolvendo exercícios (parte 1) - Aula 22"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/introProg/aula22.jpg",
+                            "imgAlt": "Introdução a Programação",
+                            "date": "22/06/21",
+                            "aHref": "https://youtu.be/-T7Xsq8NpTo"
+                        },
+                        "theaterMode": {
+                            "iframe": "-T7Xsq8NpTo"
+                        }
+                    }
                 }
             ]
         },
