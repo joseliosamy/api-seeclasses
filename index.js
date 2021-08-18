@@ -311,16 +311,16 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 1,
                         "cardHeader": {
-                            "title": "Leis de Newton - Aula 1"
+                            "title": "Sistema Internacional de Unidades e Notação Científica - Aula 0"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula1.jpg",
+                            "imgSrc": "/public/images/thumbl/fisica/aula0.webp",
                             "imgAlt": "Física",
-                            "date": "22/03/21",
-                            "aHref": "https://youtu.be/42Li6ZkcYMY"
+                            "date": "10/11/20",
+                            "aHref": "https://youtu.be/BBz2U0PZpUs"
                         },
                         "theaterMode": {
-                            "iframe": "42Li6ZkcYMY"
+                            "iframe": "BBz2U0PZpUs"
                         }
                     }
                 },
@@ -328,16 +328,16 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 2,
                         "cardHeader": {
-                            "title": "Forças de atrito - Aula 2"
+                            "title": "Deslocamento, Velocidade e Aceleração - Aula 1"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula2.jpg",
+                            "imgSrc": "/public/images/thumbl/fisica/aula1.webp",
                             "imgAlt": "Física",
-                            "date": "24/03/21",
-                            "aHref": "https://youtu.be/yqEH1Np6gBQ"
+                            "date": "17/11/20",
+                            "aHref": "https://youtu.be/U6-59tZtExI"
                         },
                         "theaterMode": {
-                            "iframe": "yqEH1Np6gBQ"
+                            "iframe": "U6-59tZtExI"
                         }
                     }
                 },
@@ -345,16 +345,16 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 3,
                         "cardHeader": {
-                            "title": "Resolvendo exercícios - Aula 3"
+                            "title": "Gráficos - Aula 2"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula3.jpg",
+                            "imgSrc": "/public/images/thumbl/fisica/aula2.webp",
                             "imgAlt": "Física",
-                            "date": "05/04/21",
-                            "aHref": "https://youtu.be/tMA9oppbMsQ"
+                            "date": "10/11/20",
+                            "aHref": "https://youtu.be/8eX7hzZ95LQ"
                         },
                         "theaterMode": {
-                            "iframe": "tMA9oppbMsQ"
+                            "iframe": "8eX7hzZ95LQ"
                         }
                     }
                 },
@@ -362,16 +362,16 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 4,
                         "cardHeader": {
-                            "title": "Energia cinética e trabalho - Aula 4"
+                            "title": "Aceleração Constante - Aula 3"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula4.jpg",
+                            "imgSrc": "/public/images/thumbl/fisica/aula3.webp",
                             "imgAlt": "Física",
-                            "date": "12/04/21",
-                            "aHref": "https://youtu.be/o5fpRGZ9rAw"
+                            "date": "24/11/20",
+                            "aHref": "https://youtu.be/P_kUPPVQIZs"
                         },
                         "theaterMode": {
-                            "iframe": "o5fpRGZ9rAw"
+                            "iframe": "P_kUPPVQIZs"
                         }
                     }
                 },
@@ -379,19 +379,291 @@ app.get('/', (req, res) => {
                     "card": {
                         "id": 5,
                         "cardHeader": {
-                            "title": "Energia potencial e conservação de energia - Aula 5"
+                            "title": "Como extrair os dados do enunciado? - Aula extra"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula5.jpg",
+                            "imgSrc": "/public/images/thumbl/fisica/aula4.webp",
                             "imgAlt": "Física",
-                            "date": "19/04/21",
-                            "aHref": "https://youtu.be/K7R32T1cUSY"
+                            "date": "27/03/21",
+                            "aHref": "https://youtu.be/LOqNhBlI1iM"
                         },
                         "theaterMode": {
-                            "iframe": "K7R32T1cUSY"
+                            "iframe": "LOqNhBlI1iM"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 6,
+                        "cardHeader": {
+                            "title": "Vetores - Aula 4"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula5.webp",
+                            "imgAlt": "Física",
+                            "date": "01/12/20",
+                            "aHref": "https://youtu.be/cJt7PooEEXU"
+                        },
+                        "theaterMode": {
+                            "iframe": "cJt7PooEEXU"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 7,
+                        "cardHeader": {
+                            "title": "Movimento em 2D e 3D - Aula 5"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula6.webp",
+                            "imgAlt": "Física",
+                            "date": "08/12/20",
+                            "aHref": "https://youtu.be/Dwm6whI_trA"
+                        },
+                        "theaterMode": {
+                            "iframe": "Dwm6whI_trA"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 8,
+                        "cardHeader": {
+                            "title": " Leis de Newton(parte 1) - Aula 6"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula7.webp",
+                            "imgAlt": "Física",
+                            "date": "15/12/20",
+                            "aHref": "https://youtu.be/cnZwZHlJIIM"
+                        },
+                        "theaterMode": {
+                            "iframe": "cnZwZHlJIIM"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 9,
+                        "cardHeader": {
+                            "title": " Leis de Newton(parte 2) - Aula 7"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula8.webp",
+                            "imgAlt": "Física",
+                            "date": "19/12/20",
+                            "aHref": "https://youtu.be/uEuSBvtXZZI"
+                        },
+                        "theaterMode": {
+                            "iframe": "uEuSBvtXZZI"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 10,
+                        "cardHeader": {
+                            "title": "Atrito - Aula 8"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula9.webp",
+                            "imgAlt": "Física",
+                            "date": "26/12/20",
+                            "aHref": "https://youtu.be/EGqZ8UYAcpo"
+                        },
+                        "theaterMode": {
+                            "iframe": "uEuSBvtXZZI"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 11,
+                        "cardHeader": {
+                            "title": "Energia Cinética e Trabalho(parte 1) - Aula 9"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula10.webp",
+                            "imgAlt": "Física",
+                            "date": "02/02/21",
+                            "aHref": "https://youtu.be/40k9nfQJa1k"
+                        },
+                        "theaterMode": {
+                            "iframe": "40k9nfQJa1k"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 12,
+                        "cardHeader": {
+                            "title": "Energia Cinética e Trabalho(parte 2) - Aula 10"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula11.webp",
+                            "imgAlt": "Física",
+                            "date": "09/02/21",
+                            "aHref": "https://youtu.be/zaSFD-bIVqM"
+                        },
+                        "theaterMode": {
+                            "iframe": "zaSFD-bIVqM"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 13,
+                        "cardHeader": {
+                            "title": "Energia Potencial - Aula 11"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula12.webp",
+                            "imgAlt": "Física",
+                            "date": "18/02/21",
+                            "aHref": "https://youtu.be/vxfK6OtjXWg"
+                        },
+                        "theaterMode": {
+                            "iframe": "vxfK6OtjXWg"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 14,
+                        "cardHeader": {
+                            "title": "Centro de Massa e Momento Linear - Aula 12"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula13.webp",
+                            "imgAlt": "Física",
+                            "date": "26/02/21",
+                            "aHref": "https://youtu.be/QoX-KQPRBzI"
+                        },
+                        "theaterMode": {
+                            "iframe": "QoX-KQPRBzI"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 15,
+                        "cardHeader": {
+                            "title": "Impulso - Aula 13"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula14.webp",
+                            "imgAlt": "Física",
+                            "date": "08/03/21",
+                            "aHref": "https://youtu.be/rFtT6iJuNM0"
+                        },
+                        "theaterMode": {
+                            "iframe": "rFtT6iJuNM0"
+                        }
+                    }
+                },
+                {
+                    "card": {
+                        "id": 16,
+                        "cardHeader": {
+                            "title": "Colisões  - Aula 13"
+                        },
+                        "cardBody": {
+                            "imgSrc": "/public/images/thumbl/fisica/aula15.webp",
+                            "imgAlt": "Física",
+                            "date": "12/03/21",
+                            "aHref": "https://youtu.be/_Z9G4P22pJQ"
+                        },
+                        "theaterMode": {
+                            "iframe": "_Z9G4P22pJQ"
                         }
                     }
                 }
+                // {
+                //     "card": {
+                //         "id": 1,
+                //         "cardHeader": {
+                //             "title": "Leis de Newton - Aula 1"
+                //         },
+                //         "cardBody": {
+                //             "imgSrc": "/public/images/thumbl/fisica/aula1.jpg",
+                //             "imgAlt": "Física",
+                //             "date": "22/03/21",
+                //             "aHref": "https://youtu.be/42Li6ZkcYMY"
+                //         },
+                //         "theaterMode": {
+                //             "iframe": "42Li6ZkcYMY"
+                //         }
+                //     }
+                // },
+                // {
+                //     "card": {
+                //         "id": 2,
+                //         "cardHeader": {
+                //             "title": "Forças de atrito - Aula 2"
+                //         },
+                //         "cardBody": {
+                //             "imgSrc": "/public/images/thumbl/fisica/aula2.jpg",
+                //             "imgAlt": "Física",
+                //             "date": "24/03/21",
+                //             "aHref": "https://youtu.be/yqEH1Np6gBQ"
+                //         },
+                //         "theaterMode": {
+                //             "iframe": "yqEH1Np6gBQ"
+                //         }
+                //     }
+                // },
+                // {
+                //     "card": {
+                //         "id": 3,
+                //         "cardHeader": {
+                //             "title": "Resolvendo exercícios - Aula 3"
+                //         },
+                //         "cardBody": {
+                //             "imgSrc": "/public/images/thumbl/fisica/aula3.jpg",
+                //             "imgAlt": "Física",
+                //             "date": "05/04/21",
+                //             "aHref": "https://youtu.be/tMA9oppbMsQ"
+                //         },
+                //         "theaterMode": {
+                //             "iframe": "tMA9oppbMsQ"
+                //         }
+                //     }
+                // },
+                // {
+                //     "card": {
+                //         "id": 4,
+                //         "cardHeader": {
+                //             "title": "Energia cinética e trabalho - Aula 4"
+                //         },
+                //         "cardBody": {
+                //             "imgSrc": "/public/images/thumbl/fisica/aula4.jpg",
+                //             "imgAlt": "Física",
+                //             "date": "12/04/21",
+                //             "aHref": "https://youtu.be/o5fpRGZ9rAw"
+                //         },
+                //         "theaterMode": {
+                //             "iframe": "o5fpRGZ9rAw"
+                //         }
+                //     }
+                // },
+                // {
+                //     "card": {
+                //         "id": 5,
+                //         "cardHeader": {
+                //             "title": "Energia potencial e conservação de energia - Aula 5"
+                //         },
+                //         "cardBody": {
+                //             "imgSrc": "/public/images/thumbl/fisica/aula5.jpg",
+                //             "imgAlt": "Física",
+                //             "date": "19/04/21",
+                //             "aHref": "https://youtu.be/K7R32T1cUSY"
+                //         },
+                //         "theaterMode": {
+                //             "iframe": "K7R32T1cUSY"
+                //         }
+                //     }
+                // }
             ]
         },
         {
