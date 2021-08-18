@@ -314,7 +314,7 @@ app.get('/', (req, res) => {
                             "title": "Sistema Internacional de Unidades e Notação Científica - Aula 0"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula0.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula1.jpg",
                             "imgAlt": "Física",
                             "date": "10/11/20",
                             "aHref": "https://youtu.be/BBz2U0PZpUs"
@@ -331,7 +331,7 @@ app.get('/', (req, res) => {
                             "title": "Deslocamento, Velocidade e Aceleração - Aula 1"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula1.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula2.jpg",
                             "imgAlt": "Física",
                             "date": "17/11/20",
                             "aHref": "https://youtu.be/U6-59tZtExI"
@@ -348,7 +348,7 @@ app.get('/', (req, res) => {
                             "title": "Gráficos - Aula 2"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula2.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula3.jpg",
                             "imgAlt": "Física",
                             "date": "10/11/20",
                             "aHref": "https://youtu.be/8eX7hzZ95LQ"
@@ -365,7 +365,7 @@ app.get('/', (req, res) => {
                             "title": "Aceleração Constante - Aula 3"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula3.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula4.jpg",
                             "imgAlt": "Física",
                             "date": "24/11/20",
                             "aHref": "https://youtu.be/P_kUPPVQIZs"
@@ -382,7 +382,7 @@ app.get('/', (req, res) => {
                             "title": "Como extrair os dados do enunciado? - Aula extra"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula4.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula5.jpg",
                             "imgAlt": "Física",
                             "date": "27/03/21",
                             "aHref": "https://youtu.be/LOqNhBlI1iM"
@@ -399,7 +399,7 @@ app.get('/', (req, res) => {
                             "title": "Vetores - Aula 4"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula5.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula6.jpg",
                             "imgAlt": "Física",
                             "date": "01/12/20",
                             "aHref": "https://youtu.be/cJt7PooEEXU"
@@ -416,7 +416,7 @@ app.get('/', (req, res) => {
                             "title": "Movimento em 2D e 3D - Aula 5"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula6.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula7.jpg",
                             "imgAlt": "Física",
                             "date": "08/12/20",
                             "aHref": "https://youtu.be/Dwm6whI_trA"
@@ -433,7 +433,7 @@ app.get('/', (req, res) => {
                             "title": " Leis de Newton(parte 1) - Aula 6"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula7.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula8.jpg",
                             "imgAlt": "Física",
                             "date": "15/12/20",
                             "aHref": "https://youtu.be/cnZwZHlJIIM"
@@ -450,7 +450,7 @@ app.get('/', (req, res) => {
                             "title": " Leis de Newton(parte 2) - Aula 7"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula8.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula9.jpg",
                             "imgAlt": "Física",
                             "date": "19/12/20",
                             "aHref": "https://youtu.be/uEuSBvtXZZI"
@@ -467,7 +467,7 @@ app.get('/', (req, res) => {
                             "title": "Atrito - Aula 8"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula9.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula10.jpg",
                             "imgAlt": "Física",
                             "date": "26/12/20",
                             "aHref": "https://youtu.be/EGqZ8UYAcpo"
@@ -484,7 +484,7 @@ app.get('/', (req, res) => {
                             "title": "Energia Cinética e Trabalho(parte 1) - Aula 9"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula10.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula11.jpg",
                             "imgAlt": "Física",
                             "date": "02/02/21",
                             "aHref": "https://youtu.be/40k9nfQJa1k"
@@ -501,7 +501,7 @@ app.get('/', (req, res) => {
                             "title": "Energia Cinética e Trabalho(parte 2) - Aula 10"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula11.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula12.jpg",
                             "imgAlt": "Física",
                             "date": "09/02/21",
                             "aHref": "https://youtu.be/zaSFD-bIVqM"
@@ -518,7 +518,7 @@ app.get('/', (req, res) => {
                             "title": "Energia Potencial - Aula 11"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula12.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula13.jpg",
                             "imgAlt": "Física",
                             "date": "18/02/21",
                             "aHref": "https://youtu.be/vxfK6OtjXWg"
@@ -535,7 +535,7 @@ app.get('/', (req, res) => {
                             "title": "Centro de Massa e Momento Linear - Aula 12"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula13.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula14.jpg",
                             "imgAlt": "Física",
                             "date": "26/02/21",
                             "aHref": "https://youtu.be/QoX-KQPRBzI"
@@ -552,7 +552,7 @@ app.get('/', (req, res) => {
                             "title": "Impulso - Aula 13"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula14.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula15.jpg",
                             "imgAlt": "Física",
                             "date": "08/03/21",
                             "aHref": "https://youtu.be/rFtT6iJuNM0"
@@ -569,7 +569,7 @@ app.get('/', (req, res) => {
                             "title": "Colisões  - Aula 13"
                         },
                         "cardBody": {
-                            "imgSrc": "/public/images/thumbl/fisica/aula15.webp",
+                            "imgSrc": "/public/images/thumbl/fisica/aula16.jpg",
                             "imgAlt": "Física",
                             "date": "12/03/21",
                             "aHref": "https://youtu.be/_Z9G4P22pJQ"
